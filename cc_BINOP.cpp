@@ -1,3 +1,5 @@
+// https://www.codechef.com/JUNE16/problems/BINOP
+
 #include <iostream>
 using namespace std;
  
